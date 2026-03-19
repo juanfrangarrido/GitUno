@@ -1,1 +1,2 @@
 Hola soy el fichero "fiche2.txt".
+Nueva linea a revertir
