@@ -1,2 +1,3 @@
 Hola soy el fichero "Fiche1.txt"
 Nueva linea para borrarrrrrrrrrrrrrrrrrrrrrrr
+Cambio diffed
